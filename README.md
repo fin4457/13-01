@@ -22,8 +22,13 @@
 *Приведите ответ в свободной форме.*  
 
 ### Решение 1  
-Найденные службы  
+Найденные службы:  
 ![alt text](https://github.com/fin4457/13-01/blob/main/img/1.jpg)
+
+Обнаруженные уязвимости:
+1. [vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)](https://www.exploit-db.com/exploits/17491). 
+
+
 
 ### Задание 2
 
