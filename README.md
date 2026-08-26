@@ -21,6 +21,10 @@
   
 *Приведите ответ в свободной форме.*  
 
+### Решение 1  
+Найденные службы  
+![alt text](https://github.com/fin4457/13-01/blob/main/img/1.jpg)
+
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
