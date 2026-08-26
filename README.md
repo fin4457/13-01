@@ -27,7 +27,7 @@
 
 Обнаруженные уязвимости:
 1. [vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)](https://www.exploit-db.com/exploits/17491).
-2. [UnrealIRCd 3.2.8.1 - Backdoor Command Execution (Metasploit)] (https://www.exploit-db.com/exploits/16922).  
+2. [UnrealIRCd 3.2.8.1 - Backdoor Command Execution (Metasploit)](https://www.exploit-db.com/exploits/16922).  
 
 
 
